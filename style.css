@@ -6,6 +6,7 @@
 
 body{
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
@@ -18,4 +19,21 @@ p{
     border: 10px;
     padding: 5px;
     
+}
+.button{
+   
+    
+}
+.btn1{
+    border-radius: 50px;
+    justify-content: center;
+    padding: 20px;
+    background-color: aqua;
+    
+}
+.btn2{
+    border-radius: 50px;
+    margin: 10px;
+    padding: 20px;
+    background-color: blueviolet;
 }
